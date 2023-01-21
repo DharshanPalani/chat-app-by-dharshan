@@ -1,1 +1,1 @@
-# chat-app-by-dharshan
+# Chat-app-dharshan-palani
