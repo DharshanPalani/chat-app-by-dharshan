@@ -19,5 +19,3 @@ io.on("connection", function (socket) {
     socket.broadcast.emit("chat", message);
   });
 });
-
-server.listen(5000);
